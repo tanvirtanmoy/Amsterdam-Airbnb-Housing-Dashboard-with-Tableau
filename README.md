@@ -20,9 +20,8 @@ The Amsterdam Airbnb Housing Dashboard is designed to provide a comprehensive vi
 ## Features
 
 - **Interactive Maps**: Visualize Airbnb listings across Amsterdam with geographical context.
-- **Pricing Analysis**: Detailed breakdown of prices per night, including median and average prices.
-- **Availability Insights**: Track the availability of listings throughout the year.
-- **Listing Details**: Access information about individual listings, including host details, reviews, and more.
+- **Pricing Analysis**: Breakdown of prices for 3 nights, by location and neighbourhood.
+- **Revenue Details**: Revenue of Airbnb throughout the year of 2024 in Amsterdam.
 
 ## Data Source
 
